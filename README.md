@@ -1,1 +1,1 @@
-# Churn-Rate-predict
+# Churn rate predictction using AWS,Snowflake,Tableau
